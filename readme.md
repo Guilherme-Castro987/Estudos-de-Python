@@ -59,6 +59,6 @@ https://realpython.com/
 Caso queira trocar ideias ou colaborar:
 
 www.linkedin.com/in/guilherme-castro-3965771b5
-Email: guilherme.dcastro@americanas.io
+Email: guilhermescastro987@outlook.com.br
 
 ⭐ Se este repositório te ajudou, não esqueça de dar uma estrela!
