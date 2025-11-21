@@ -2,7 +2,7 @@
 # Conjuntos são ensinados na matemática
 # https://brasilescola.uol.com.br/matematica/diagrama-de-venn.html
 # Representados graficamente pelo diagrama de Venn
-# Sets em Python são mutavéis, porpem aceitam apenas 
+# Sets em Python são mutavéis, porem aceitam apenas 
 # tipos imutavéis como valor interno.
 
 # Criando um set 
