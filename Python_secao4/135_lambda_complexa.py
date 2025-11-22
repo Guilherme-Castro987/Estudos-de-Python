@@ -1,3 +1,5 @@
+# Lembrando que a Lambda é apenas para coisas rápidas, não use Lambda para criar funções extremamente complexas.
+
 def executa(funcao,*args):
     return funcao(*args)
 
