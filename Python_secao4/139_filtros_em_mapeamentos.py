@@ -33,3 +33,6 @@ print(produtos_filtrados) # Saída: [{'p2': 'produto 2', 'preco': 20}, {'p3': 'p
 # No caso abaixo, estou realizando o mesmo filtro que a função filter acima, porém usando apenas list comprehension.
 produtos_filtrados2 = [item for item in produtos if item['preco']>=20]
 print(produtos_filtrados2) # Saída: [{'p2': 'produto 2', 'preco': 20}, {'p3': 'produto 3', 'preco': 30}, {'p4': 'produto 4', 'preco': 40}]
+
+
+
