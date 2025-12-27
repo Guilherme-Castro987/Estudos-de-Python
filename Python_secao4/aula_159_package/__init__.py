@@ -1,0 +1,1 @@
+print('Executando oque esta dentro do' , __name__)
